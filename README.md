@@ -1,5 +1,3 @@
-Sure, here's a sample GitHub README file that asks for contributions and suggests adding GCSE topics for learning and education:
-
 # Welcome to the GCSE-HANDBOOK!
 
 This is a repository for is here to help all students by providing them with crucial infomation to aid in their GCSE.

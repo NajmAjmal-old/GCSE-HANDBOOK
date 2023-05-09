@@ -4,7 +4,7 @@ Electrolysis is a process in chemistry that involves the use of electrical energ
 
 ## How Electrolysis Works
 
-Electrolysis involves the transfer of electrons from one substance to another. When an electric current is passed through an electrolyte, the positively charged ions (cations) move towards the negative electrode (cathode), while the negatively charged ions (anions) move towards the positive electrode (anode). 
+Electrolysis involves the transfer of electrons from one substance to another. When an electric current is passed through an electrolyte, the positively charged ions (cations) move towards the negative electrode (cathode), while the negatively charged ions (anions) move towards the positive electrode (anode).
 
 At the cathode, the cations gain electrons, which causes them to be reduced to a neutral state. At the anode, the anions lose electrons, which causes them to be oxidized to a neutral state. The reduction and oxidation reactions that occur at the electrodes are called half-reactions, and together they make up the overall redox reaction.
 
@@ -25,3 +25,7 @@ Electrolysis can also be used to purify metals. Impure metals can be dissolved i
 ## Conclusion
 
 Electrolysis is a useful process in chemistry that has many industrial and laboratory applications. It involves the use of an electric current to cause chemical reactions, such as metal extraction, electroplating, and purification of metals. By understanding how electrolysis works, we can better understand its applications and how it is used in various industries.
+
+# Suggested Topics
+
+[Anodes & Cathods](https://github.com/NajmAjmal/GCSE-HANDBOOK/blob/main/GCSE/Science/Chemistry/Anodes-Cathods.md)
